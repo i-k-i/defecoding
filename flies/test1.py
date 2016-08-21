@@ -3,7 +3,7 @@ import matplotlib.animation as animation
 import random
 import math
 import mpl_toolkits.mplot3d.axes3d as p3
-
+from numpy import numpyzdetz
 
 
 fig = plt.figure()
