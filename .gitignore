@@ -1,0 +1,9 @@
+*/bu/
+*/__pycache__/
+.idea/
+*/dbs/
+/doc/
+*.egg-info/
+
+*.db
+*.py[cod]
