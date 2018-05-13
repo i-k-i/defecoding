@@ -42,3 +42,9 @@ def p42():
     return container
 
 print(p42(), f(x, 57))
+
+
+def p43(code):
+    print(code, '=', eval(code))
+
+p43('f(x, 57)')
