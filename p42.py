@@ -9,7 +9,7 @@
 Я написал функцию, которая избавляет Вас от необходимости дважды писать одно и то же:
 
 >>> print(p42(), f(x, 57))
-f(x, 42) = 0.03508771929824561
+f(x, 57) = 0.03508771929824561
 
 Sourse:
 https://gisstudio.wordpress.com/2013/04/30/an-easy-way-to-get-the-line-number-of-your-python-code/
