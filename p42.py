@@ -21,7 +21,7 @@ f(x, 57) = 0.03508771929824561
 f(x, 57) = 0.03508771929824561
 
 
-Sourse:
+Sourсe:
 https://gisstudio.wordpress.com/2013/04/30/an-easy-way-to-get-the-line-number-of-your-python-code/
 
 Listening:
